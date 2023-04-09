@@ -1,0 +1,14 @@
+.review-container {
+  margin: 50px auto;
+}
+.review-item {
+  border: 1px solid gray;
+  width: 570px;
+  margin-bottom: 20px;
+  padding: 10px;
+  display: flex;
+}
+.review-item img {
+  width: 90px;
+  height: 90px;
+}
